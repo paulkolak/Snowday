@@ -1,0 +1,12 @@
+body {
+  font-family:arial;
+  margin-left:30px;
+  margin-top:50px;
+}
+h1 {
+  color:#888;
+  background:#000;
+  padding:10px;
+}
+h2 { font-family:helvetica; }
+p a { background:blue; }
